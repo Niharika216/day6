@@ -1,0 +1,252 @@
+#table,tr,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#title{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#teams{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#format{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#virat{
+    width: 300px;
+    border: 5px solid blue;
+    background-color: maroon;
+}
+#faf{
+    width: 300px;
+    border: 5px solid blue;
+    background-color: maroon;
+}
+#anuj{
+    width: 300px;
+    border: 5px solid blue;
+    background-color: maroon;
+}
+#dinesh{
+    width: 300px;
+    border: 5px solid blue;
+    background-color: maroon;
+}
+#saurav{
+    width: 300px;
+    border: 5px solid blue;
+    background-color: maroon;
+}
+#will{
+    width: 300px;
+    border: 5px solid blue;
+    background-color: maroon;
+}
+#ruturaj{
+    width: 300px;
+    border: 5px solid orangered;
+    background-color: rgb(237, 237, 45);
+}
+#deepak{
+    width: 300px;
+    border: 5px solid orangered;
+    background-color: rgb(237, 237, 45);
+}
+#shivam{
+    width: 300px;
+    border: 5px solid orangered;
+    background-color: rgb(237, 237, 45);
+}
+#ravindra{
+    width: 300px;
+    border: 5px solid orangered;
+    background-color: rgb(237, 237, 45);
+}
+#dhoni{
+    width: 300px;
+    border: 5px solid orangered;
+    background-color: rgb(237, 237, 45);
+}
+#devon{
+    width: 300px;
+    border: 5px solid orangered;
+    background-color: rgb(237, 237, 45);
+}
+#rishabh{
+    width: 300px;
+    border: 5px solid red;
+    background-color: #2561AE;
+}
+#david{
+    width: 300px;
+    border: 5px solid red;
+    background-color: #2561AE;
+}
+#prithvi{
+    width: 300px;
+    border: 5px solid red;
+    background-color: #2561AE;
+}
+#kuldeep{
+    width: 300px;
+    border: 5px solid red;
+    background-color: #2561AE;
+}
+#yash{
+    width: 300px;
+    border: 5px solid red;
+    background-color: #2561AE;
+}
+#tristan{
+    width: 300px;
+    border: 5px solid red;
+    background-color: #2561AE;
+}
+#rashid{
+    width: 300px;
+    border: 5px solid red;
+    background-color: navy;
+}
+#darshan{
+    width: 300px;
+    border: 5px solid red;
+    background-color: navy;
+}
+#vijay{
+    width: 300px;
+    border: 5px solid red;
+    background-color: navy;
+}
+#shami{
+    width: 300px;
+    border: 5px solid red;
+    background-color: navy;
+}
+#david{
+    width: 300px;
+    border: 5px solid red;
+    background-color: navy;
+}
+#shubman{
+    width: 300px;
+    border: 5px solid red;
+    background-color: navy;
+}
+#Phillips{
+    width: 300px;
+    border: 5px solid green;
+    background-color: orangered;
+}
+#upendra{
+    width: 300px;
+    border: 5px solid green;
+    background-color: orangered;
+}
+#abhisek{
+    width: 300px;
+    border: 5px solid green;
+    background-color: orangered;
+}
+#sundar{
+    width: 300px;
+    border: 5px solid green;
+    background-color: orangered;
+}
+#bhuvn{
+    width: 300px;
+    border: 5px solid green;
+    background-color: orangered;
+}
+#pat{
+    width: 300px;
+    border: 5px solid green;
+    background-color: orangered;
+}
+#shreyas{
+    width: 300px;
+    border: 5px solid rgb(237, 11, 146);
+    background-color: purple;
+}
+#rinku{
+    width: 300px;
+    border: 5px solid rgb(237, 11, 146);
+    background-color: purple;
+}
+#manish{
+    width: 300px;
+    border: 5px solid rgb(237, 11, 146);
+    background-color: purple;
+}
+#russell{
+    width: 300px;
+    border: 5px solid rgb(237, 11, 146);
+    background-color: purple;
+}
+#varun{
+    width: 300px;
+    border: 5px solid rgb(237, 11, 146);
+    background-color: purple;
+}
+#sunil{
+    width: 300px;
+    border: 5px solid rgb(237, 11, 146);
+    background-color: purple;
+}
+#rahul{
+    width: 300px;
+    border: 5px solid rgb(237, 11, 146);
+    background-color: #0057E2;
+}
+#Nicholas{
+    width: 300px;
+    border: 5px solid rgb(237, 11, 146);
+    background-color: #0057E2;
+}
+#naveen{
+    width: 300px;
+    border: 5px solid rgb(237, 11, 146);
+    background-color: #0057E2;
+}
+#yash{
+    width: 300px;
+    border: 5px solid rgb(237, 11, 146);
+    background-color: #0057E2;
+}
+#ayush{
+    width: 300px;
+    border: 5px solid rgb(237, 11, 146);
+    background-color: #0057E2;
+}
+#krunal{
+    width: 300px;
+    border: 5px solid rgb(237, 11, 146);
+    background-color: #0057E2;
+}
+#hardik{width: 300px;
+    border: 5px solid rgb(237, 11, 146);
+    background-color: #0057E2;
+}
+#arjun{
+    width: 300px;
+    border: 5px solid rgb(237, 11, 146);
+    background-color: #0057E2;
+}
+#nabi{
+    width: 300px;
+    border: 5px solid rgb(237, 11, 146);
+    background-color: #0057E2;
+}
+#rohit{
+    width: 300px;
+    border: 5px solid rgb(237, 11, 146);
+    background-color: #0057E2;
+}
+#surya{
+    width: 300px;
+    border: 5px solid rgb(237, 11, 146);
+    background-color: #0057E2;
+}
+#ishan{
+    width: 300px;
+    border: 5px solid rgb(237, 11, 146);
+    background-color: #0057E2;
+}
